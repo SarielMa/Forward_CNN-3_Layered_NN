@@ -1,0 +1,6 @@
+folder 1 corresponds to CNN
+folder 2 corresponds to NN
+To run NN use python neuralnet.py
+To run CNN use python forward_cnn.py
+It takes 1.png as input by default
+Hidden layer nodes are fixed.You can change that variable in the code.
